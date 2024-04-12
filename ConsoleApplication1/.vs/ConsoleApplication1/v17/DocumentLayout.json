@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\progs\\yy\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\progs\\yy\\\u041A\u043E\u043B\u0435\u0441\u043E_\u0444\u043E\u0440\u0442\u0443\u043D\u044B\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "D:\\VS\\progs\\yy\\\u041A\u043E\u043B\u0435\u0441\u043E_\u0444\u043E\u0440\u0442\u0443\u043D\u044B\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "..\\\u041A\u043E\u043B\u0435\u0441\u043E_\u0444\u043E\u0440\u0442\u0443\u043D\u044B\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "D:\\VS\\progs\\yy\\\u041A\u043E\u043B\u0435\u0441\u043E_\u0444\u043E\u0440\u0442\u0443\u043D\u044B\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "..\\\u041A\u043E\u043B\u0435\u0441\u043E_\u0444\u043E\u0440\u0442\u0443\u043D\u044B\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T05:31:50.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

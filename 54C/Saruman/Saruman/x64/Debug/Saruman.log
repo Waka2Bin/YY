@@ -1,0 +1,5 @@
+﻿  double.cpp
+D:\VS\progs\yy\54C\Saruman\double.cpp(100,40): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+D:\VS\progs\yy\54C\Saruman\double.cpp(101,46): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+D:\VS\progs\yy\54C\Saruman\double.cpp(102,44): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  Saruman.vcxproj -> D:\VS\progs\yy\54C\Saruman\x64\Debug\Saruman.exe

@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(50,43): warning C4244: =: преобразование "_Ty" в "long", возможна потеря данных
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(50,43): warning C4244:         with
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(50,43): warning C4244:         [
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(50,43): warning C4244:             _Ty=__int64
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(50,43): warning C4244:         ]
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(61,43): warning C4244: =: преобразование "_Ty" в "long", возможна потеря данных
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(61,43): warning C4244:         with
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(61,43): warning C4244:         [
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(61,43): warning C4244:             _Ty=__int64
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(61,43): warning C4244:         ]
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(78,43): warning C4244: =: преобразование "_Ty" в "long", возможна потеря данных
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(78,43): warning C4244:         with
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(78,43): warning C4244:         [
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(78,43): warning C4244:             _Ty=__int64
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(78,43): warning C4244:         ]
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(95,43): warning C4244: =: преобразование "_Ty" в "long", возможна потеря данных
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(95,43): warning C4244:         with
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(95,43): warning C4244:         [
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(95,43): warning C4244:             _Ty=__int64
+D:\VS\progs\yy\ConsoleApplication1\ConsoleApplication1.cpp(95,43): warning C4244:         ]
+  ConsoleApplication1.vcxproj -> D:\VS\progs\yy\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

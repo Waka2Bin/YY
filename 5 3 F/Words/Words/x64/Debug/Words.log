@@ -1,0 +1,4 @@
+﻿  Words.cpp
+D:\VS\progs\yy\5 3 F\Words\Words.cpp(21,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VS\progs\yy\5 3 F\Words\Words.cpp(28,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Words.vcxproj -> D:\VS\progs\yy\5 3 F\Words\x64\Debug\Words.exe

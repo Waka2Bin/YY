@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\progs\\jj_work\\1\\Contest_1_part_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6F26F9-BFB6-4D0D-A7EF-27A8DC58DB9F}|LineSys_ J\\LineSys_ J.vcxproj|D:\\VS\\progs\\jj_work\\1\\Contest_1_part_1\\LineSys_ J\\LineSys_ J.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC6F26F9-BFB6-4D0D-A7EF-27A8DC58DB9F}|LineSys_ J\\LineSys_ J.vcxproj|solutionrelative:LineSys_ J\\LineSys_ J.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LineSys_ J.cpp",
+              "DocumentMoniker": "D:\\VS\\progs\\jj_work\\1\\Contest_1_part_1\\LineSys_ J\\LineSys_ J.cpp",
+              "RelativeDocumentMoniker": "LineSys_ J\\LineSys_ J.cpp",
+              "ToolTip": "D:\\VS\\progs\\jj_work\\1\\Contest_1_part_1\\LineSys_ J\\LineSys_ J.cpp",
+              "RelativeToolTip": "LineSys_ J\\LineSys_ J.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T07:43:26.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

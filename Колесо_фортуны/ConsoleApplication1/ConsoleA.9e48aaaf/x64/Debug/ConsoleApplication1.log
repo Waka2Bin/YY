@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+D:\VS\progs\yy\Колесо_фортуны\ConsoleApplication1\ConsoleApplication1.cpp(61,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\VS\progs\yy\Колесо_фортуны\ConsoleApplication1\ConsoleApplication1.cpp(102,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\VS\progs\yy\Колесо_фортуны\ConsoleApplication1\ConsoleApplication1.cpp(109,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VS\progs\yy\Колесо_фортуны\ConsoleApplication1\ConsoleApplication1.cpp(110,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VS\progs\yy\Колесо_фортуны\ConsoleApplication1\ConsoleApplication1.cpp(113,24): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\VS\progs\yy\Колесо_фортуны\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

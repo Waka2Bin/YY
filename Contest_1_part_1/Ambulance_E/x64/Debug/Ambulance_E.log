@@ -1,0 +1,8 @@
+﻿  Ambulance_E.cpp
+D:\VS\progs\yy\1\Contest_1_part_1\Ambulance_E\Ambulance_E.cpp(17,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VS\progs\yy\1\Contest_1_part_1\Ambulance_E\Ambulance_E.cpp(18,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VS\progs\yy\1\Contest_1_part_1\Ambulance_E\Ambulance_E.cpp(22,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\VS\progs\yy\1\Contest_1_part_1\Ambulance_E\Ambulance_E.cpp(23,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\VS\progs\yy\1\Contest_1_part_1\Ambulance_E\Ambulance_E.cpp(29,64): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VS\progs\yy\1\Contest_1_part_1\Ambulance_E\Ambulance_E.cpp(29,73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Ambulance_E.vcxproj -> D:\VS\progs\yy\1\Contest_1_part_1\x64\Debug\Ambulance_E.exe
